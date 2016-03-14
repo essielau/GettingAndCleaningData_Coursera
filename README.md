@@ -5,7 +5,7 @@ Unpack the data as to have 'UCI HAR Dataset' directory and its subdirectories in
 Copy run_analysis.R to your working directory.
 Install the 'plyr' package if you don't have it.
 
-How to reproduce this project
+To reproduce this project:
 
 1. Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "data".
 Keep the folder "data" and the run_analysis.R script both in the current working directory.
