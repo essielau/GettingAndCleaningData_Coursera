@@ -3,8 +3,11 @@ This is the project for 'Getting and Cleaning Data' course
 To run this project you will need this data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Unpack the data as to have 'UCI HAR Dataset' directory and its subdirectories inside your working directory.  
+
 Change the name of the file to data.
+
 Copy run_analysis.R to your working directory.
+
 Install the 'plyr' package if you don't have it.
 
 To reproduce this project:
